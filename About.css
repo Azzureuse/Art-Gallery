@@ -1,0 +1,123 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0%;
+    background-image: url(Picture.png);
+    background-size: 100vw 115vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.container {
+    font-size: 8cap;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px black;
+    cursor: default;
+}
+
+.p {
+    font-size: 0.9cap;
+    padding-bottom: 250px;
+    margin: 0%;
+    cursor: default;
+}
+
+a {
+   text-decoration-line: none;
+   text-align: center;
+   display: block;
+   color: grey;
+   padding: 20px;
+   font-size: x-large;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding-left: 0%;
+}
+
+.navbar a:hover {
+    background-color: hsl(0, 0%, 0%);
+    opacity: 0.7;
+}
+
+.navbar {
+    display: block;
+    text-align: center;
+    top: 0;
+}
+
+.navbar li {
+    float: right;
+}
+
+.icons {
+    font-size: 5cap;
+    float: left;
+    margin: 5px;
+    cursor: default;
+    color: rgb(105, 73, 101);
+}
+
+h1 {
+    text-align: center;
+    font-size: 6cap;
+    color: rgb(242, 242, 242);
+}
+
+img {
+    width: 25%;
+    left: 0;
+    border: solid;
+    transition: 0.35s ease;
+    border-radius: 13px;
+    margin-top: 30px;
+    border-color: grey;
+    box-shadow: 10px 10px grey;
+}
+
+img:hover {
+    transform: scale(1.18);
+    cursor: pointer;
+}
+
+.gallery {
+    display: inline-block;
+    justify-content: center;
+    column-gap: 50px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 15px;
+    width: 95%;
+    cursor: default;
+}
+
+.title {
+    color: black;
+    text-align: center;
+    padding: 1%;
+    margin: 2%;
+    font-size: 3cap;
+    cursor: default;
+    font-family: cursive;
+}
+
+.box {
+    border: groove;
+    margin:100px;
+    text-align: center;
+    box-shadow: 10px 10px grey;
+    border-color: grey;
+    border-radius: 20px;
+}
+
+.description {
+    color: rgb(1, 35, 137);
+    font-size: 3cap;
+    font-family: Arial, Helvetica, sans-serif;
+}
