@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <script src="https://kit.fontawesome.com/0f721399c3.js" crossorigin="anonymous"></script>
 <head>
