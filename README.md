@@ -25,11 +25,8 @@
             <p class="p">Where every sculpture and canvas are here.</p>
         </div>
     </section>
-
     <footer>
         <p class="footer">copyright 2025 ©</p>
     </footer>
-
-    <script src="script.js"></script>
 </body>
 </html>
